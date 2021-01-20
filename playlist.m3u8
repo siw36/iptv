@@ -3,32 +3,26 @@
 #EXTINF:-1 tvg-id="WELT" tvg-name="WELT.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png",Welt
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-id="n-tv" tvg-name="ntv.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2560px-N-tv_logo-september2017.svg.png",N-TV
-https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8
-
-#EXTINF:-1 tvg-id="KIKA" tvg-name="Kika.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Kika_2012.svg",KIKA
+#EXTINF:-1 tvg-id="KIKA" tvg-name="Kika.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/2000px-Kika_2012.svg.png",KIKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Nick.svg",Nickelodeon
-http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2000px-MTV_Logo_2010.svg.png",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 
 #EXTINF:-1 tvg-id="ARD" tvg-name="ard.de" tvg-logo="https://upload.wikimedia.org/wikipedia/de/5/5f/ARD-Logo.jpg",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-id="ARTE DE" tvg-name="arte.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Arte-Logo.svg",ARTE DE
+#EXTINF:-1 tvg-id="ARTE DE" tvg-name="arte.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/2000px-Arte-Logo.svg.png",ARTE DE
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDF" tvg-name="zdf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/ZDF_logo.svg",ZDF
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDF" tvg-name="zdf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="info.zdf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/ZDFinfo_2011.svg",ZDFinfo
-https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="info.zdf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/2000px-ZDFinfo_2011.svg.png",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDFneo" tvg-name="neo.zdf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/ZDFneo2017_Logo.svg",ZDFneo
-https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
-
-#EXTINF:-1 tvg-id="NASA" tvg-name="nasa.gov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",NASA
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="neo.zdf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/2000px-ZDFneo2017_Logo.svg.png",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8

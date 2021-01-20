@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-id="n-tv" tvg-name="ntv.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2560px-N-tv_logo-september2017.svg.png",N-TV
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/index_1500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="NASA" tvg-name="nasa.gov" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2000px-NASA_logo.svg.png",NASA
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
