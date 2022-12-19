@@ -7,7 +7,7 @@ https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/playlist-1280
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
-https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/master_5000.m3u8
 
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
